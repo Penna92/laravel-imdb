@@ -49920,7 +49920,7 @@ var app = new Vue({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\MAMP\htdocs\esercizi\laravel-imdb\resources\js\front.js */"./resources/js/front.js");
+module.exports = __webpack_require__(/*! C:\MAMP\htdocs\esercizi_php_laravel\laravel-imdb\resources\js\front.js */"./resources/js/front.js");
 
 
 /***/ })
